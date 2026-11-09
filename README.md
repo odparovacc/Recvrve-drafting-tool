@@ -3,7 +3,7 @@
 # Recvrve
 Draft preparation tool with features that shouldve existed 5 years ago.
 
-Current version: **0.2.1 Beta**. Copyright (C) 2026 [odparovacc](https://github.com/odparovacc). Licensed under the GNU General Public License, version 2 or (at your option) any later version (see `LICENSE`). The fonts and libraries it includes keep their own licenses, collected in `THIRD-PARTY-NOTICES.txt` (installed next to the app; regenerate it with `python tools/third_party_notices.py` after changing dependencies — the Windows installer workflow does so on every build).
+Current version: **0.3.1 Beta**. Copyright (C) 2026 [odparovacc](https://github.com/odparovacc). Licensed under the GNU General Public License, version 2 or (at your option) any later version (see `LICENSE`). The fonts and libraries it includes keep their own licenses, collected in `THIRD-PARTY-NOTICES.txt` (installed next to the app; regenerate it with `python tools/third_party_notices.py` after changing dependencies — the Windows installer workflow does so on every build).
 
 ## Running
 
