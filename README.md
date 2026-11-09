@@ -34,7 +34,7 @@ The setup lands in `target\installer\`. The **Windows installer** GitHub Actions
 does the same on a Windows runner: run it from the Actions tab, or push a tag like `v0.2.1`
 to attach the setup to a (pre-)release.
 
-The wizard: a welcome page titled "Recvrve 0.2.1 Beta", the license (GNU GPL v2 or later, with the font and
+The wizard: a welcome page titled "Recvrve 0.3.1 Beta", the license (GNU GPL v2 or later, with the font and
 Riot Games notices), the install folder (`Program Files\Recvrve`), the Start menu folder,
 a desktop shortcut and the `.dts` / `.dtt` file associations (both optional), then install
 and finish with "Launch Recvrve". Music plays while the wizard is open, quietly, with a
