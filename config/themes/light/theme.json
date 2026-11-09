@@ -1,0 +1,39 @@
+{
+  "name": "Light",
+  "base": "light",
+  "fit": "cover",
+  "dim": 35,
+  "panel_opacity": 100,
+  "blur": 0,
+  "colors": {
+    "bg": "#dddddd",
+    "panel": "#d3d3d3",
+    "panel2": "#eceef4",
+    "border": "#d5d9e3",
+    "text": "#1b1e28",
+    "muted": "#626a80",
+    "accent": "#b7860f"
+  },
+  "group_colors": [
+    "#f59e0b",
+    "#10b981",
+    "#a16207",
+    "#ec4899",
+    "#06b6d4",
+    "#84cc16",
+    "#f97316",
+    "#64748b",
+    "#14b8a6",
+    "#4ade80",
+    "#78716c",
+    "#eab308"
+  ],
+  "graph": {
+    "edge": "#7d859a",
+    "edge_active": "#b7860f",
+    "turn_line": "#d5d9e3",
+    "turn_width": 1.0,
+    "phase_line": "#a6adbd",
+    "phase_width": 3.0
+  }
+}

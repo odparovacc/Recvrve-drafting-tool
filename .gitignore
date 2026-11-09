@@ -1,0 +1,14 @@
+/target
+/config/*.bak
+/config/*.tmp
+/config/settings.json
+/exports/*
+!/exports/.gitkeep
+/config/themes/*/*.bak
+/config/themes/*/*.tmp
+/config/imported_configs/
+/config/temp/
+/saves/*
+!/saves/.gitkeep
+/config/keybinds.json
+/config/counters/

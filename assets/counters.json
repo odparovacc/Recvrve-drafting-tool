@@ -1,0 +1,4972 @@
+{
+  "format": 1,
+  "source": "OP.GG",
+  "tier": "master_plus",
+  "patch": "16.21",
+  "fetched": "2026-11-02",
+  "champions": {
+    "Aatrox": {
+      "jungle": {
+        "games": 21314,
+        "counters": [
+          {
+            "champion": "Sylas",
+            "games": 130,
+            "wins": 56
+          },
+          {
+            "champion": "Talon",
+            "games": 128,
+            "wins": 59
+          },
+          {
+            "champion": "JarvanIV",
+            "games": 181,
+            "wins": 86
+          }
+        ]
+      },
+      "top": {
+        "games": 145774,
+        "counters": [
+          {
+            "champion": "Riven",
+            "games": 218,
+            "wins": 86
+          },
+          {
+            "champion": "Tryndamere",
+            "games": 288,
+            "wins": 121
+          },
+          {
+            "champion": "Jax",
+            "games": 507,
+            "wins": 217
+          }
+        ]
+      }
+    },
+    "Ahri": {
+      "mid": {
+        "games": 229958,
+        "counters": [
+          {
+            "champion": "Velkoz",
+            "games": 180,
+            "wins": 78
+          },
+          {
+            "champion": "KogMaw",
+            "games": 127,
+            "wins": 59
+          },
+          {
+            "champion": "Ekko",
+            "games": 662,
+            "wins": 310
+          }
+        ]
+      }
+    },
+    "Akali": {
+      "mid": {
+        "games": 175740,
+        "counters": [
+          {
+            "champion": "Velkoz",
+            "games": 108,
+            "wins": 43
+          },
+          {
+            "champion": "Lissandra",
+            "games": 790,
+            "wins": 321
+          },
+          {
+            "champion": "TwistedFate",
+            "games": 727,
+            "wins": 295
+          }
+        ]
+      },
+      "top": {
+        "games": 75398,
+        "counters": [
+          {
+            "champion": "Nasus",
+            "games": 157,
+            "wins": 65
+          },
+          {
+            "champion": "Galio",
+            "games": 115,
+            "wins": 48
+          },
+          {
+            "champion": "Chogath",
+            "games": 104,
+            "wins": 44
+          }
+        ]
+      }
+    },
+    "Akshan": {
+      "mid": {
+        "games": 50220,
+        "counters": [
+          {
+            "champion": "Qiyana",
+            "games": 121,
+            "wins": 49
+          },
+          {
+            "champion": "Irelia",
+            "games": 117,
+            "wins": 47
+          },
+          {
+            "champion": "Vladimir",
+            "games": 177,
+            "wins": 76
+          }
+        ]
+      }
+    },
+    "Alistar": {
+      "support": {
+        "games": 142847,
+        "counters": [
+          {
+            "champion": "Leblanc",
+            "games": 122,
+            "wins": 54
+          },
+          {
+            "champion": "Poppy",
+            "games": 597,
+            "wins": 277
+          },
+          {
+            "champion": "Rakan",
+            "games": 1247,
+            "wins": 610
+          }
+        ]
+      }
+    },
+    "Ambessa": {
+      "jungle": {
+        "games": 15469,
+        "counters": [
+          {
+            "champion": "Qiyana",
+            "games": 143,
+            "wins": 59
+          },
+          {
+            "champion": "Hecarim",
+            "games": 106,
+            "wins": 47
+          },
+          {
+            "champion": "JarvanIV",
+            "games": 141,
+            "wins": 65
+          }
+        ]
+      },
+      "top": {
+        "games": 91843,
+        "counters": [
+          {
+            "champion": "Teemo",
+            "games": 171,
+            "wins": 68
+          },
+          {
+            "champion": "Warwick",
+            "games": 136,
+            "wins": 55
+          },
+          {
+            "champion": "Gangplank",
+            "games": 445,
+            "wins": 189
+          }
+        ]
+      }
+    },
+    "Amumu": {
+      "jungle": {
+        "games": 44603,
+        "counters": [
+          {
+            "champion": "JarvanIV",
+            "games": 124,
+            "wins": 55
+          },
+          {
+            "champion": "Sylas",
+            "games": 114,
+            "wins": 52
+          },
+          {
+            "champion": "LeeSin",
+            "games": 137,
+            "wins": 66
+          }
+        ]
+      },
+      "support": {
+        "games": 16850,
+        "counters": [
+          {
+            "champion": "Thresh",
+            "games": 150,
+            "wins": 74
+          },
+          {
+            "champion": "Alistar",
+            "games": 127,
+            "wins": 62
+          }
+        ]
+      }
+    },
+    "Anivia": {
+      "mid": {
+        "games": 55196,
+        "counters": [
+          {
+            "champion": "Aurora",
+            "games": 161,
+            "wins": 70
+          },
+          {
+            "champion": "Malzahar",
+            "games": 112,
+            "wins": 50
+          },
+          {
+            "champion": "Locke",
+            "games": 317,
+            "wins": 145
+          }
+        ]
+      },
+      "top": {
+        "games": 16813,
+        "counters": []
+      }
+    },
+    "Annie": {
+      "mid": {
+        "games": 42828,
+        "counters": [
+          {
+            "champion": "Ekko",
+            "games": 130,
+            "wins": 58
+          },
+          {
+            "champion": "Leblanc",
+            "games": 143,
+            "wins": 67
+          },
+          {
+            "champion": "Sylas",
+            "games": 168,
+            "wins": 80
+          }
+        ]
+      }
+    },
+    "Aphelios": {
+      "bot": {
+        "games": 173097,
+        "counters": [
+          {
+            "champion": "Syndra",
+            "games": 185,
+            "wins": 71
+          },
+          {
+            "champion": "Swain",
+            "games": 143,
+            "wins": 59
+          },
+          {
+            "champion": "Velkoz",
+            "games": 142,
+            "wins": 59
+          }
+        ]
+      }
+    },
+    "Ashe": {
+      "bot": {
+        "games": 133289,
+        "counters": [
+          {
+            "champion": "Twitch",
+            "games": 274,
+            "wins": 113
+          },
+          {
+            "champion": "Viktor",
+            "games": 133,
+            "wins": 57
+          },
+          {
+            "champion": "Varus",
+            "games": 325,
+            "wins": 142
+          }
+        ]
+      },
+      "support": {
+        "games": 17730,
+        "counters": []
+      }
+    },
+    "AurelionSol": {
+      "bot": {
+        "games": 14369,
+        "counters": [
+          {
+            "champion": "Aphelios",
+            "games": 159,
+            "wins": 75
+          },
+          {
+            "champion": "Kaisa",
+            "games": 318,
+            "wins": 157
+          },
+          {
+            "champion": "Zeri",
+            "games": 110,
+            "wins": 54
+          }
+        ]
+      },
+      "mid": {
+        "games": 37662,
+        "counters": [
+          {
+            "champion": "Malzahar",
+            "games": 110,
+            "wins": 45
+          },
+          {
+            "champion": "Zed",
+            "games": 137,
+            "wins": 58
+          },
+          {
+            "champion": "Katarina",
+            "games": 130,
+            "wins": 57
+          }
+        ]
+      }
+    },
+    "Aurora": {
+      "mid": {
+        "games": 59245,
+        "counters": [
+          {
+            "champion": "Fizz",
+            "games": 140,
+            "wins": 58
+          },
+          {
+            "champion": "TwistedFate",
+            "games": 290,
+            "wins": 130
+          },
+          {
+            "champion": "Diana",
+            "games": 145,
+            "wins": 68
+          }
+        ]
+      },
+      "top": {
+        "games": 12376,
+        "counters": []
+      }
+    },
+    "Azir": {
+      "mid": {
+        "games": 45308,
+        "counters": [
+          {
+            "champion": "Leblanc",
+            "games": 161,
+            "wins": 65
+          },
+          {
+            "champion": "Yone",
+            "games": 246,
+            "wins": 109
+          },
+          {
+            "champion": "Ekko",
+            "games": 130,
+            "wins": 57
+          }
+        ]
+      }
+    },
+    "Bard": {
+      "support": {
+        "games": 97778,
+        "counters": [
+          {
+            "champion": "Zoe",
+            "games": 104,
+            "wins": 45
+          },
+          {
+            "champion": "Braum",
+            "games": 363,
+            "wins": 158
+          },
+          {
+            "champion": "Zilean",
+            "games": 316,
+            "wins": 138
+          }
+        ]
+      }
+    },
+    "Belveth": {
+      "jungle": {
+        "games": 57773,
+        "counters": [
+          {
+            "champion": "Taliyah",
+            "games": 148,
+            "wins": 60
+          },
+          {
+            "champion": "Nidalee",
+            "games": 149,
+            "wins": 67
+          },
+          {
+            "champion": "Elise",
+            "games": 174,
+            "wins": 80
+          }
+        ]
+      }
+    },
+    "Blitzcrank": {
+      "support": {
+        "games": 174406,
+        "counters": [
+          {
+            "champion": "Rell",
+            "games": 550,
+            "wins": 225
+          },
+          {
+            "champion": "Braum",
+            "games": 828,
+            "wins": 365
+          },
+          {
+            "champion": "Renata",
+            "games": 263,
+            "wins": 116
+          }
+        ]
+      }
+    },
+    "Brand": {
+      "mid": {
+        "games": 14213,
+        "counters": []
+      },
+      "support": {
+        "games": 52607,
+        "counters": [
+          {
+            "champion": "Lulu",
+            "games": 227,
+            "wins": 99
+          },
+          {
+            "champion": "Nautilus",
+            "games": 192,
+            "wins": 87
+          },
+          {
+            "champion": "Karma",
+            "games": 161,
+            "wins": 72
+          }
+        ]
+      }
+    },
+    "Braum": {
+      "support": {
+        "games": 123356,
+        "counters": [
+          {
+            "champion": "Taric",
+            "games": 129,
+            "wins": 48
+          },
+          {
+            "champion": "Soraka",
+            "games": 308,
+            "wins": 137
+          },
+          {
+            "champion": "Alistar",
+            "games": 1014,
+            "wins": 459
+          }
+        ]
+      }
+    },
+    "Briar": {
+      "jungle": {
+        "games": 97823,
+        "counters": [
+          {
+            "champion": "MasterYi",
+            "games": 171,
+            "wins": 72
+          },
+          {
+            "champion": "Elise",
+            "games": 141,
+            "wins": 61
+          },
+          {
+            "champion": "Shaco",
+            "games": 132,
+            "wins": 60
+          }
+        ]
+      }
+    },
+    "Caitlyn": {
+      "bot": {
+        "games": 303439,
+        "counters": [
+          {
+            "champion": "Seraphine",
+            "games": 108,
+            "wins": 38
+          },
+          {
+            "champion": "Ziggs",
+            "games": 295,
+            "wins": 123
+          },
+          {
+            "champion": "Samira",
+            "games": 278,
+            "wins": 118
+          }
+        ]
+      }
+    },
+    "Camille": {
+      "support": {
+        "games": 24071,
+        "counters": [
+          {
+            "champion": "Nautilus",
+            "games": 260,
+            "wins": 106
+          },
+          {
+            "champion": "Poppy",
+            "games": 127,
+            "wins": 52
+          },
+          {
+            "champion": "Alistar",
+            "games": 224,
+            "wins": 95
+          }
+        ]
+      },
+      "top": {
+        "games": 100410,
+        "counters": [
+          {
+            "champion": "Warwick",
+            "games": 126,
+            "wins": 53
+          },
+          {
+            "champion": "Shen",
+            "games": 304,
+            "wins": 134
+          },
+          {
+            "champion": "Teemo",
+            "games": 158,
+            "wins": 70
+          }
+        ]
+      }
+    },
+    "Cassiopeia": {
+      "mid": {
+        "games": 27789,
+        "counters": [
+          {
+            "champion": "Ahri",
+            "games": 195,
+            "wins": 80
+          },
+          {
+            "champion": "Zed",
+            "games": 160,
+            "wins": 66
+          },
+          {
+            "champion": "Ekko",
+            "games": 130,
+            "wins": 55
+          }
+        ]
+      }
+    },
+    "Chogath": {
+      "jungle": {
+        "games": 130256,
+        "counters": [
+          {
+            "champion": "Trundle",
+            "games": 110,
+            "wins": 46
+          },
+          {
+            "champion": "Kindred",
+            "games": 218,
+            "wins": 97
+          },
+          {
+            "champion": "Zac",
+            "games": 178,
+            "wins": 80
+          }
+        ]
+      },
+      "top": {
+        "games": 68081,
+        "counters": [
+          {
+            "champion": "Aatrox",
+            "games": 246,
+            "wins": 102
+          },
+          {
+            "champion": "Camille",
+            "games": 200,
+            "wins": 83
+          },
+          {
+            "champion": "Fiora",
+            "games": 183,
+            "wins": 80
+          }
+        ]
+      }
+    },
+    "Corki": {
+      "bot": {
+        "games": 46425,
+        "counters": [
+          {
+            "champion": "Zeri",
+            "games": 259,
+            "wins": 113
+          },
+          {
+            "champion": "Ashe",
+            "games": 134,
+            "wins": 60
+          },
+          {
+            "champion": "KogMaw",
+            "games": 104,
+            "wins": 47
+          }
+        ]
+      }
+    },
+    "Darius": {
+      "jungle": {
+        "games": 28510,
+        "counters": [
+          {
+            "champion": "JarvanIV",
+            "games": 160,
+            "wins": 72
+          },
+          {
+            "champion": "Qiyana",
+            "games": 109,
+            "wins": 53
+          }
+        ]
+      },
+      "top": {
+        "games": 173321,
+        "counters": [
+          {
+            "champion": "Trundle",
+            "games": 104,
+            "wins": 44
+          },
+          {
+            "champion": "Chogath",
+            "games": 223,
+            "wins": 97
+          },
+          {
+            "champion": "Jax",
+            "games": 677,
+            "wins": 311
+          }
+        ]
+      }
+    },
+    "Diana": {
+      "jungle": {
+        "games": 80079,
+        "counters": [
+          {
+            "champion": "Taliyah",
+            "games": 149,
+            "wins": 61
+          },
+          {
+            "champion": "Zyra",
+            "games": 106,
+            "wins": 45
+          },
+          {
+            "champion": "Hecarim",
+            "games": 302,
+            "wins": 134
+          }
+        ]
+      },
+      "mid": {
+        "games": 79963,
+        "counters": [
+          {
+            "champion": "Yasuo",
+            "games": 265,
+            "wins": 115
+          },
+          {
+            "champion": "Ekko",
+            "games": 216,
+            "wins": 96
+          },
+          {
+            "champion": "Taliyah",
+            "games": 132,
+            "wins": 58
+          }
+        ]
+      }
+    },
+    "DrMundo": {
+      "top": {
+        "games": 76410,
+        "counters": [
+          {
+            "champion": "Aatrox",
+            "games": 331,
+            "wins": 129
+          },
+          {
+            "champion": "Vayne",
+            "games": 105,
+            "wins": 42
+          },
+          {
+            "champion": "Gwen",
+            "games": 260,
+            "wins": 110
+          }
+        ]
+      }
+    },
+    "Draven": {
+      "bot": {
+        "games": 96929,
+        "counters": [
+          {
+            "champion": "Yasuo",
+            "games": 177,
+            "wins": 75
+          },
+          {
+            "champion": "Hwei",
+            "games": 118,
+            "wins": 50
+          },
+          {
+            "champion": "Karthus",
+            "games": 112,
+            "wins": 47
+          }
+        ]
+      }
+    },
+    "Ekko": {
+      "jungle": {
+        "games": 113135,
+        "counters": [
+          {
+            "champion": "Kindred",
+            "games": 201,
+            "wins": 79
+          },
+          {
+            "champion": "Karthus",
+            "games": 130,
+            "wins": 55
+          },
+          {
+            "champion": "Nocturne",
+            "games": 167,
+            "wins": 72
+          }
+        ]
+      },
+      "mid": {
+        "games": 117677,
+        "counters": [
+          {
+            "champion": "Lissandra",
+            "games": 428,
+            "wins": 196
+          },
+          {
+            "champion": "Vex",
+            "games": 189,
+            "wins": 86
+          },
+          {
+            "champion": "Taliyah",
+            "games": 268,
+            "wins": 127
+          }
+        ]
+      }
+    },
+    "Elise": {
+      "jungle": {
+        "games": 75436,
+        "counters": [
+          {
+            "champion": "RekSai",
+            "games": 141,
+            "wins": 64
+          },
+          {
+            "champion": "Evelynn",
+            "games": 136,
+            "wins": 63
+          },
+          {
+            "champion": "XinZhao",
+            "games": 191,
+            "wins": 89
+          }
+        ]
+      },
+      "support": {
+        "games": 17338,
+        "counters": [
+          {
+            "champion": "Rell",
+            "games": 161,
+            "wins": 70
+          },
+          {
+            "champion": "Alistar",
+            "games": 197,
+            "wins": 90
+          },
+          {
+            "champion": "Rakan",
+            "games": 147,
+            "wins": 68
+          }
+        ]
+      }
+    },
+    "Evelynn": {
+      "jungle": {
+        "games": 61845,
+        "counters": [
+          {
+            "champion": "Shaco",
+            "games": 126,
+            "wins": 48
+          },
+          {
+            "champion": "Talon",
+            "games": 257,
+            "wins": 121
+          },
+          {
+            "champion": "Khazix",
+            "games": 328,
+            "wins": 158
+          }
+        ]
+      }
+    },
+    "Ezreal": {
+      "bot": {
+        "games": 291664,
+        "counters": [
+          {
+            "champion": "AurelionSol",
+            "games": 184,
+            "wins": 67
+          },
+          {
+            "champion": "Xerath",
+            "games": 201,
+            "wins": 80
+          },
+          {
+            "champion": "Ziggs",
+            "games": 312,
+            "wins": 128
+          }
+        ]
+      }
+    },
+    "Fiddlesticks": {
+      "jungle": {
+        "games": 44494,
+        "counters": [
+          {
+            "champion": "Khazix",
+            "games": 192,
+            "wins": 85
+          },
+          {
+            "champion": "Sylas",
+            "games": 195,
+            "wins": 89
+          },
+          {
+            "champion": "Rengar",
+            "games": 119,
+            "wins": 56
+          }
+        ]
+      }
+    },
+    "Fiora": {
+      "top": {
+        "games": 102226,
+        "counters": [
+          {
+            "champion": "Darius",
+            "games": 605,
+            "wins": 272
+          },
+          {
+            "champion": "Gangplank",
+            "games": 422,
+            "wins": 189
+          },
+          {
+            "champion": "Kayle",
+            "games": 164,
+            "wins": 74
+          }
+        ]
+      }
+    },
+    "Fizz": {
+      "jungle": {
+        "games": 14307,
+        "counters": [
+          {
+            "champion": "LeeSin",
+            "games": 114,
+            "wins": 56
+          }
+        ]
+      },
+      "mid": {
+        "games": 113928,
+        "counters": [
+          {
+            "champion": "Talon",
+            "games": 105,
+            "wins": 41
+          },
+          {
+            "champion": "Lissandra",
+            "games": 373,
+            "wins": 153
+          },
+          {
+            "champion": "Yasuo",
+            "games": 388,
+            "wins": 165
+          }
+        ]
+      }
+    },
+    "Galio": {
+      "mid": {
+        "games": 97253,
+        "counters": [
+          {
+            "champion": "Taliyah",
+            "games": 263,
+            "wins": 114
+          },
+          {
+            "champion": "Qiyana",
+            "games": 172,
+            "wins": 74
+          },
+          {
+            "champion": "Ahri",
+            "games": 654,
+            "wins": 291
+          }
+        ]
+      },
+      "support": {
+        "games": 18532,
+        "counters": [
+          {
+            "champion": "Karma",
+            "games": 112,
+            "wins": 49
+          },
+          {
+            "champion": "Lulu",
+            "games": 178,
+            "wins": 87
+          }
+        ]
+      }
+    },
+    "Gangplank": {
+      "top": {
+        "games": 116743,
+        "counters": [
+          {
+            "champion": "Kennen",
+            "games": 110,
+            "wins": 52
+          },
+          {
+            "champion": "Irelia",
+            "games": 480,
+            "wins": 231
+          },
+          {
+            "champion": "Sion",
+            "games": 387,
+            "wins": 186
+          }
+        ]
+      }
+    },
+    "Garen": {
+      "top": {
+        "games": 141754,
+        "counters": [
+          {
+            "champion": "Urgot",
+            "games": 144,
+            "wins": 60
+          },
+          {
+            "champion": "Camille",
+            "games": 583,
+            "wins": 261
+          },
+          {
+            "champion": "Malphite",
+            "games": 285,
+            "wins": 129
+          }
+        ]
+      }
+    },
+    "Gnar": {
+      "top": {
+        "games": 80106,
+        "counters": [
+          {
+            "champion": "Riven",
+            "games": 112,
+            "wins": 44
+          },
+          {
+            "champion": "Fiora",
+            "games": 277,
+            "wins": 113
+          },
+          {
+            "champion": "Ornn",
+            "games": 296,
+            "wins": 126
+          }
+        ]
+      }
+    },
+    "Gragas": {
+      "jungle": {
+        "games": 17590,
+        "counters": [
+          {
+            "champion": "Sylas",
+            "games": 116,
+            "wins": 56
+          }
+        ]
+      },
+      "mid": {
+        "games": 12159,
+        "counters": []
+      },
+      "top": {
+        "games": 57213,
+        "counters": [
+          {
+            "champion": "Camille",
+            "games": 223,
+            "wins": 99
+          },
+          {
+            "champion": "DrMundo",
+            "games": 200,
+            "wins": 92
+          },
+          {
+            "champion": "Garen",
+            "games": 168,
+            "wins": 79
+          }
+        ]
+      }
+    },
+    "Graves": {
+      "jungle": {
+        "games": 174157,
+        "counters": [
+          {
+            "champion": "Shaco",
+            "games": 391,
+            "wins": 166
+          },
+          {
+            "champion": "Zyra",
+            "games": 325,
+            "wins": 141
+          },
+          {
+            "champion": "Skarner",
+            "games": 138,
+            "wins": 60
+          }
+        ]
+      }
+    },
+    "Gwen": {
+      "jungle": {
+        "games": 21277,
+        "counters": [
+          {
+            "champion": "Viego",
+            "games": 117,
+            "wins": 49
+          }
+        ]
+      },
+      "mid": {
+        "games": 11809,
+        "counters": []
+      },
+      "top": {
+        "games": 56728,
+        "counters": [
+          {
+            "champion": "Ornn",
+            "games": 357,
+            "wins": 156
+          },
+          {
+            "champion": "Yone",
+            "games": 221,
+            "wins": 98
+          },
+          {
+            "champion": "Zaahen",
+            "games": 124,
+            "wins": 54
+          }
+        ]
+      }
+    },
+    "Hecarim": {
+      "jungle": {
+        "games": 122452,
+        "counters": [
+          {
+            "champion": "Taliyah",
+            "games": 330,
+            "wins": 143
+          },
+          {
+            "champion": "Chogath",
+            "games": 514,
+            "wins": 226
+          },
+          {
+            "champion": "Kindred",
+            "games": 454,
+            "wins": 202
+          }
+        ]
+      }
+    },
+    "Heimerdinger": {
+      "top": {
+        "games": 27727,
+        "counters": []
+      }
+    },
+    "Hwei": {
+      "bot": {
+        "games": 21975,
+        "counters": [
+          {
+            "champion": "Sivir",
+            "games": 104,
+            "wins": 50
+          }
+        ]
+      },
+      "mid": {
+        "games": 82190,
+        "counters": [
+          {
+            "champion": "Lux",
+            "games": 184,
+            "wins": 76
+          },
+          {
+            "champion": "Qiyana",
+            "games": 124,
+            "wins": 52
+          },
+          {
+            "champion": "Locke",
+            "games": 397,
+            "wins": 173
+          }
+        ]
+      },
+      "support": {
+        "games": 14297,
+        "counters": []
+      }
+    },
+    "Illaoi": {
+      "top": {
+        "games": 57707,
+        "counters": [
+          {
+            "champion": "Sett",
+            "games": 119,
+            "wins": 51
+          },
+          {
+            "champion": "Ornn",
+            "games": 128,
+            "wins": 56
+          },
+          {
+            "champion": "Camille",
+            "games": 151,
+            "wins": 68
+          }
+        ]
+      }
+    },
+    "Irelia": {
+      "mid": {
+        "games": 64275,
+        "counters": [
+          {
+            "champion": "Lissandra",
+            "games": 217,
+            "wins": 92
+          },
+          {
+            "champion": "Hwei",
+            "games": 147,
+            "wins": 63
+          },
+          {
+            "champion": "Katarina",
+            "games": 264,
+            "wins": 115
+          }
+        ]
+      },
+      "top": {
+        "games": 104037,
+        "counters": [
+          {
+            "champion": "Warwick",
+            "games": 127,
+            "wins": 51
+          },
+          {
+            "champion": "Malphite",
+            "games": 561,
+            "wins": 238
+          },
+          {
+            "champion": "Riven",
+            "games": 161,
+            "wins": 69
+          }
+        ]
+      }
+    },
+    "Ivern": {
+      "jungle": {
+        "games": 24841,
+        "counters": [
+          {
+            "champion": "Rengar",
+            "games": 108,
+            "wins": 45
+          },
+          {
+            "champion": "Talon",
+            "games": 173,
+            "wins": 81
+          },
+          {
+            "champion": "Graves",
+            "games": 159,
+            "wins": 77
+          }
+        ]
+      }
+    },
+    "Janna": {
+      "support": {
+        "games": 112207,
+        "counters": [
+          {
+            "champion": "Blitzcrank",
+            "games": 899,
+            "wins": 413
+          },
+          {
+            "champion": "Senna",
+            "games": 658,
+            "wins": 303
+          },
+          {
+            "champion": "Thresh",
+            "games": 1397,
+            "wins": 662
+          }
+        ]
+      }
+    },
+    "JarvanIV": {
+      "jungle": {
+        "games": 184861,
+        "counters": [
+          {
+            "champion": "Karthus",
+            "games": 245,
+            "wins": 103
+          },
+          {
+            "champion": "Gragas",
+            "games": 115,
+            "wins": 48
+          },
+          {
+            "champion": "Kindred",
+            "games": 451,
+            "wins": 202
+          }
+        ]
+      }
+    },
+    "Jax": {
+      "jungle": {
+        "games": 19748,
+        "counters": []
+      },
+      "top": {
+        "games": 136644,
+        "counters": [
+          {
+            "champion": "Riven",
+            "games": 171,
+            "wins": 64
+          },
+          {
+            "champion": "Singed",
+            "games": 215,
+            "wins": 84
+          },
+          {
+            "champion": "DrMundo",
+            "games": 298,
+            "wins": 124
+          }
+        ]
+      }
+    },
+    "Jayce": {
+      "jungle": {
+        "games": 44630,
+        "counters": [
+          {
+            "champion": "Ekko",
+            "games": 156,
+            "wins": 58
+          },
+          {
+            "champion": "Zyra",
+            "games": 134,
+            "wins": 50
+          },
+          {
+            "champion": "Elise",
+            "games": 139,
+            "wins": 56
+          }
+        ]
+      },
+      "mid": {
+        "games": 17158,
+        "counters": [
+          {
+            "champion": "Katarina",
+            "games": 117,
+            "wins": 49
+          },
+          {
+            "champion": "Galio",
+            "games": 103,
+            "wins": 43
+          },
+          {
+            "champion": "Ahri",
+            "games": 146,
+            "wins": 70
+          }
+        ]
+      },
+      "top": {
+        "games": 131888,
+        "counters": [
+          {
+            "champion": "Sylas",
+            "games": 103,
+            "wins": 39
+          },
+          {
+            "champion": "Ornn",
+            "games": 481,
+            "wins": 195
+          },
+          {
+            "champion": "Sion",
+            "games": 529,
+            "wins": 224
+          }
+        ]
+      }
+    },
+    "Jhin": {
+      "bot": {
+        "games": 446656,
+        "counters": [
+          {
+            "champion": "Karthus",
+            "games": 317,
+            "wins": 134
+          },
+          {
+            "champion": "AurelionSol",
+            "games": 311,
+            "wins": 137
+          },
+          {
+            "champion": "Veigar",
+            "games": 258,
+            "wins": 114
+          }
+        ]
+      }
+    },
+    "Jinx": {
+      "bot": {
+        "games": 306993,
+        "counters": [
+          {
+            "champion": "Lux",
+            "games": 179,
+            "wins": 64
+          },
+          {
+            "champion": "Velkoz",
+            "games": 164,
+            "wins": 59
+          },
+          {
+            "champion": "Katarina",
+            "games": 162,
+            "wins": 68
+          }
+        ]
+      }
+    },
+    "KSante": {
+      "top": {
+        "games": 87773,
+        "counters": [
+          {
+            "champion": "Illaoi",
+            "games": 185,
+            "wins": 70
+          },
+          {
+            "champion": "Fiora",
+            "games": 480,
+            "wins": 203
+          },
+          {
+            "champion": "Zaahen",
+            "games": 283,
+            "wins": 120
+          }
+        ]
+      }
+    },
+    "Kaisa": {
+      "bot": {
+        "games": 502072,
+        "counters": [
+          {
+            "champion": "Karthus",
+            "games": 329,
+            "wins": 140
+          },
+          {
+            "champion": "Swain",
+            "games": 407,
+            "wins": 183
+          },
+          {
+            "champion": "Xayah",
+            "games": 4872,
+            "wins": 2243
+          }
+        ]
+      }
+    },
+    "Kalista": {
+      "bot": {
+        "games": 110234,
+        "counters": [
+          {
+            "champion": "Karthus",
+            "games": 146,
+            "wins": 57
+          },
+          {
+            "champion": "AurelionSol",
+            "games": 127,
+            "wins": 54
+          },
+          {
+            "champion": "Aphelios",
+            "games": 959,
+            "wins": 427
+          }
+        ]
+      }
+    },
+    "Karma": {
+      "support": {
+        "games": 172608,
+        "counters": [
+          {
+            "champion": "Taric",
+            "games": 129,
+            "wins": 51
+          },
+          {
+            "champion": "Rell",
+            "games": 753,
+            "wins": 307
+          },
+          {
+            "champion": "Maokai",
+            "games": 175,
+            "wins": 74
+          }
+        ]
+      }
+    },
+    "Karthus": {
+      "bot": {
+        "games": 14943,
+        "counters": [
+          {
+            "champion": "Sivir",
+            "games": 169,
+            "wins": 77
+          },
+          {
+            "champion": "Jinx",
+            "games": 183,
+            "wins": 90
+          }
+        ]
+      },
+      "jungle": {
+        "games": 31291,
+        "counters": [
+          {
+            "champion": "Talon",
+            "games": 159,
+            "wins": 70
+          },
+          {
+            "champion": "Rengar",
+            "games": 123,
+            "wins": 55
+          },
+          {
+            "champion": "Hecarim",
+            "games": 184,
+            "wins": 89
+          }
+        ]
+      }
+    },
+    "Kassadin": {
+      "mid": {
+        "games": 68490,
+        "counters": [
+          {
+            "champion": "Zed",
+            "games": 225,
+            "wins": 95
+          },
+          {
+            "champion": "TwistedFate",
+            "games": 255,
+            "wins": 111
+          },
+          {
+            "champion": "Qiyana",
+            "games": 159,
+            "wins": 71
+          }
+        ]
+      }
+    },
+    "Katarina": {
+      "bot": {
+        "games": 21516,
+        "counters": [
+          {
+            "champion": "Xayah",
+            "games": 144,
+            "wins": 61
+          },
+          {
+            "champion": "Tristana",
+            "games": 141,
+            "wins": 66
+          },
+          {
+            "champion": "Kaisa",
+            "games": 390,
+            "wins": 187
+          }
+        ]
+      },
+      "mid": {
+        "games": 149718,
+        "counters": [
+          {
+            "champion": "Annie",
+            "games": 221,
+            "wins": 94
+          },
+          {
+            "champion": "Lux",
+            "games": 260,
+            "wins": 117
+          },
+          {
+            "champion": "Vladimir",
+            "games": 446,
+            "wins": 206
+          }
+        ]
+      }
+    },
+    "Kayle": {
+      "mid": {
+        "games": 11791,
+        "counters": [
+          {
+            "champion": "Ahri",
+            "games": 125,
+            "wins": 61
+          }
+        ]
+      },
+      "top": {
+        "games": 49587,
+        "counters": [
+          {
+            "champion": "Camille",
+            "games": 141,
+            "wins": 60
+          },
+          {
+            "champion": "Jax",
+            "games": 138,
+            "wins": 64
+          },
+          {
+            "champion": "Darius",
+            "games": 129,
+            "wins": 61
+          }
+        ]
+      }
+    },
+    "Kayn": {
+      "jungle": {
+        "games": 168862,
+        "counters": [
+          {
+            "champion": "RekSai",
+            "games": 131,
+            "wins": 53
+          },
+          {
+            "champion": "Fiddlesticks",
+            "games": 143,
+            "wins": 58
+          },
+          {
+            "champion": "Belveth",
+            "games": 225,
+            "wins": 95
+          }
+        ]
+      }
+    },
+    "Kennen": {
+      "top": {
+        "games": 42417,
+        "counters": [
+          {
+            "champion": "Sett",
+            "games": 103,
+            "wins": 44
+          },
+          {
+            "champion": "Nasus",
+            "games": 121,
+            "wins": 56
+          },
+          {
+            "champion": "Yasuo",
+            "games": 108,
+            "wins": 51
+          }
+        ]
+      }
+    },
+    "Khazix": {
+      "jungle": {
+        "games": 155241,
+        "counters": [
+          {
+            "champion": "Rammus",
+            "games": 102,
+            "wins": 42
+          },
+          {
+            "champion": "Zyra",
+            "games": 209,
+            "wins": 87
+          },
+          {
+            "champion": "Nidalee",
+            "games": 549,
+            "wins": 236
+          }
+        ]
+      }
+    },
+    "Kindred": {
+      "jungle": {
+        "games": 59393,
+        "counters": [
+          {
+            "champion": "Evelynn",
+            "games": 108,
+            "wins": 43
+          },
+          {
+            "champion": "Zac",
+            "games": 105,
+            "wins": 44
+          },
+          {
+            "champion": "Taliyah",
+            "games": 205,
+            "wins": 90
+          }
+        ]
+      }
+    },
+    "Kled": {
+      "top": {
+        "games": 38478,
+        "counters": [
+          {
+            "champion": "Fiora",
+            "games": 131,
+            "wins": 53
+          },
+          {
+            "champion": "Darius",
+            "games": 201,
+            "wins": 84
+          },
+          {
+            "champion": "Gangplank",
+            "games": 179,
+            "wins": 77
+          }
+        ]
+      }
+    },
+    "KogMaw": {
+      "bot": {
+        "games": 54136,
+        "counters": [
+          {
+            "champion": "Xayah",
+            "games": 255,
+            "wins": 119
+          }
+        ]
+      },
+      "mid": {
+        "games": 16438,
+        "counters": [
+          {
+            "champion": "Yone",
+            "games": 111,
+            "wins": 50
+          },
+          {
+            "champion": "Syndra",
+            "games": 149,
+            "wins": 72
+          }
+        ]
+      }
+    },
+    "Leblanc": {
+      "mid": {
+        "games": 127452,
+        "counters": [
+          {
+            "champion": "Hwei",
+            "games": 265,
+            "wins": 117
+          },
+          {
+            "champion": "Yasuo",
+            "games": 591,
+            "wins": 274
+          },
+          {
+            "champion": "Malzahar",
+            "games": 407,
+            "wins": 187
+          }
+        ]
+      },
+      "support": {
+        "games": 18819,
+        "counters": [
+          {
+            "champion": "Karma",
+            "games": 116,
+            "wins": 50
+          },
+          {
+            "champion": "Rakan",
+            "games": 106,
+            "wins": 46
+          },
+          {
+            "champion": "Nami",
+            "games": 100,
+            "wins": 43
+          }
+        ]
+      }
+    },
+    "LeeSin": {
+      "jungle": {
+        "games": 287044,
+        "counters": [
+          {
+            "champion": "Gwen",
+            "games": 190,
+            "wins": 78
+          },
+          {
+            "champion": "Elise",
+            "games": 853,
+            "wins": 377
+          },
+          {
+            "champion": "RekSai",
+            "games": 576,
+            "wins": 256
+          }
+        ]
+      }
+    },
+    "Leona": {
+      "support": {
+        "games": 189385,
+        "counters": [
+          {
+            "champion": "Taric",
+            "games": 174,
+            "wins": 79
+          },
+          {
+            "champion": "Zilean",
+            "games": 318,
+            "wins": 147
+          },
+          {
+            "champion": "Swain",
+            "games": 192,
+            "wins": 89
+          }
+        ]
+      }
+    },
+    "Lillia": {
+      "jungle": {
+        "games": 119706,
+        "counters": [
+          {
+            "champion": "Shaco",
+            "games": 268,
+            "wins": 108
+          },
+          {
+            "champion": "Rengar",
+            "games": 275,
+            "wins": 114
+          },
+          {
+            "champion": "Taliyah",
+            "games": 274,
+            "wins": 123
+          }
+        ]
+      }
+    },
+    "Lissandra": {
+      "mid": {
+        "games": 126263,
+        "counters": [
+          {
+            "champion": "Vex",
+            "games": 137,
+            "wins": 53
+          },
+          {
+            "champion": "Anivia",
+            "games": 193,
+            "wins": 77
+          },
+          {
+            "champion": "Hwei",
+            "games": 293,
+            "wins": 126
+          }
+        ]
+      },
+      "top": {
+        "games": 12012,
+        "counters": []
+      }
+    },
+    "Locke": {
+      "jungle": {
+        "games": 20733,
+        "counters": [
+          {
+            "champion": "Viego",
+            "games": 184,
+            "wins": 81
+          },
+          {
+            "champion": "Qiyana",
+            "games": 217,
+            "wins": 103
+          },
+          {
+            "champion": "LeeSin",
+            "games": 279,
+            "wins": 133
+          }
+        ]
+      },
+      "mid": {
+        "games": 163947,
+        "counters": [
+          {
+            "champion": "Katarina",
+            "games": 799,
+            "wins": 345
+          },
+          {
+            "champion": "Kassadin",
+            "games": 504,
+            "wins": 224
+          },
+          {
+            "champion": "AurelionSol",
+            "games": 196,
+            "wins": 86
+          }
+        ]
+      }
+    },
+    "Lucian": {
+      "bot": {
+        "games": 202339,
+        "counters": [
+          {
+            "champion": "Karthus",
+            "games": 160,
+            "wins": 63
+          },
+          {
+            "champion": "Seraphine",
+            "games": 121,
+            "wins": 51
+          },
+          {
+            "champion": "Katarina",
+            "games": 150,
+            "wins": 65
+          }
+        ]
+      }
+    },
+    "Lulu": {
+      "support": {
+        "games": 279134,
+        "counters": [
+          {
+            "champion": "Thresh",
+            "games": 3227,
+            "wins": 1466
+          },
+          {
+            "champion": "Rell",
+            "games": 1295,
+            "wins": 602
+          },
+          {
+            "champion": "Senna",
+            "games": 1159,
+            "wins": 534
+          }
+        ]
+      }
+    },
+    "Lux": {
+      "bot": {
+        "games": 19292,
+        "counters": [
+          {
+            "champion": "Kalista",
+            "games": 110,
+            "wins": 49
+          },
+          {
+            "champion": "Kaisa",
+            "games": 358,
+            "wins": 170
+          },
+          {
+            "champion": "Sivir",
+            "games": 130,
+            "wins": 62
+          }
+        ]
+      },
+      "mid": {
+        "games": 91371,
+        "counters": [
+          {
+            "champion": "Aurora",
+            "games": 134,
+            "wins": 56
+          },
+          {
+            "champion": "Akshan",
+            "games": 124,
+            "wins": 52
+          },
+          {
+            "champion": "Kassadin",
+            "games": 166,
+            "wins": 76
+          }
+        ]
+      },
+      "support": {
+        "games": 145778,
+        "counters": [
+          {
+            "champion": "Blitzcrank",
+            "games": 508,
+            "wins": 217
+          },
+          {
+            "champion": "Xerath",
+            "games": 131,
+            "wins": 58
+          },
+          {
+            "champion": "Sona",
+            "games": 159,
+            "wins": 72
+          }
+        ]
+      }
+    },
+    "Malphite": {
+      "jungle": {
+        "games": 19065,
+        "counters": []
+      },
+      "mid": {
+        "games": 17782,
+        "counters": []
+      },
+      "top": {
+        "games": 160268,
+        "counters": [
+          {
+            "champion": "Sylas",
+            "games": 959,
+            "wins": 403
+          },
+          {
+            "champion": "Nasus",
+            "games": 380,
+            "wins": 159
+          },
+          {
+            "champion": "Shen",
+            "games": 273,
+            "wins": 117
+          }
+        ]
+      }
+    },
+    "Malzahar": {
+      "mid": {
+        "games": 117807,
+        "counters": [
+          {
+            "champion": "Fizz",
+            "games": 165,
+            "wins": 67
+          },
+          {
+            "champion": "Zed",
+            "games": 333,
+            "wins": 143
+          },
+          {
+            "champion": "TwistedFate",
+            "games": 314,
+            "wins": 136
+          }
+        ]
+      },
+      "top": {
+        "games": 12742,
+        "counters": []
+      }
+    },
+    "Maokai": {
+      "support": {
+        "games": 36900,
+        "counters": [
+          {
+            "champion": "Leona",
+            "games": 199,
+            "wins": 90
+          },
+          {
+            "champion": "Alistar",
+            "games": 268,
+            "wins": 124
+          },
+          {
+            "champion": "Lulu",
+            "games": 251,
+            "wins": 116
+          }
+        ]
+      }
+    },
+    "MasterYi": {
+      "jungle": {
+        "games": 138929,
+        "counters": [
+          {
+            "champion": "Evelynn",
+            "games": 148,
+            "wins": 57
+          },
+          {
+            "champion": "XinZhao",
+            "games": 245,
+            "wins": 104
+          },
+          {
+            "champion": "Fiddlesticks",
+            "games": 108,
+            "wins": 46
+          }
+        ]
+      },
+      "top": {
+        "games": 12581,
+        "counters": []
+      }
+    },
+    "Mel": {
+      "bot": {
+        "games": 12100,
+        "counters": [
+          {
+            "champion": "Kaisa",
+            "games": 146,
+            "wins": 53
+          },
+          {
+            "champion": "Jhin",
+            "games": 162,
+            "wins": 74
+          }
+        ]
+      },
+      "mid": {
+        "games": 41024,
+        "counters": [
+          {
+            "champion": "Xerath",
+            "games": 102,
+            "wins": 40
+          },
+          {
+            "champion": "Syndra",
+            "games": 168,
+            "wins": 70
+          },
+          {
+            "champion": "Locke",
+            "games": 110,
+            "wins": 46
+          }
+        ]
+      },
+      "support": {
+        "games": 11667,
+        "counters": [
+          {
+            "champion": "Thresh",
+            "games": 112,
+            "wins": 42
+          }
+        ]
+      }
+    },
+    "Milio": {
+      "support": {
+        "games": 147207,
+        "counters": [
+          {
+            "champion": "Blitzcrank",
+            "games": 772,
+            "wins": 332
+          },
+          {
+            "champion": "Soraka",
+            "games": 536,
+            "wins": 232
+          },
+          {
+            "champion": "Taric",
+            "games": 107,
+            "wins": 46
+          }
+        ]
+      }
+    },
+    "MissFortune": {
+      "bot": {
+        "games": 201137,
+        "counters": [
+          {
+            "champion": "Velkoz",
+            "games": 105,
+            "wins": 43
+          },
+          {
+            "champion": "Yasuo",
+            "games": 205,
+            "wins": 87
+          },
+          {
+            "champion": "Swain",
+            "games": 101,
+            "wins": 44
+          }
+        ]
+      }
+    },
+    "MonkeyKing": {
+      "jungle": {
+        "games": 147097,
+        "counters": [
+          {
+            "champion": "Gwen",
+            "games": 103,
+            "wins": 42
+          },
+          {
+            "champion": "Fiddlesticks",
+            "games": 113,
+            "wins": 47
+          },
+          {
+            "champion": "Nidalee",
+            "games": 223,
+            "wins": 95
+          }
+        ]
+      },
+      "top": {
+        "games": 21195,
+        "counters": [
+          {
+            "champion": "Yone",
+            "games": 117,
+            "wins": 53
+          }
+        ]
+      }
+    },
+    "Mordekaiser": {
+      "top": {
+        "games": 123496,
+        "counters": [
+          {
+            "champion": "KSante",
+            "games": 304,
+            "wins": 128
+          },
+          {
+            "champion": "Pantheon",
+            "games": 223,
+            "wins": 93
+          },
+          {
+            "champion": "Darius",
+            "games": 417,
+            "wins": 180
+          }
+        ]
+      }
+    },
+    "Morgana": {
+      "support": {
+        "games": 95261,
+        "counters": [
+          {
+            "champion": "Soraka",
+            "games": 123,
+            "wins": 52
+          },
+          {
+            "champion": "Yuumi",
+            "games": 100,
+            "wins": 42
+          },
+          {
+            "champion": "Rell",
+            "games": 197,
+            "wins": 87
+          }
+        ]
+      }
+    },
+    "Naafiri": {
+      "jungle": {
+        "games": 59085,
+        "counters": [
+          {
+            "champion": "Zyra",
+            "games": 121,
+            "wins": 49
+          },
+          {
+            "champion": "XinZhao",
+            "games": 160,
+            "wins": 67
+          },
+          {
+            "champion": "Lillia",
+            "games": 125,
+            "wins": 54
+          }
+        ]
+      },
+      "mid": {
+        "games": 16144,
+        "counters": []
+      }
+    },
+    "Nami": {
+      "support": {
+        "games": 202690,
+        "counters": [
+          {
+            "champion": "Taric",
+            "games": 152,
+            "wins": 65
+          },
+          {
+            "champion": "Thresh",
+            "games": 1818,
+            "wins": 805
+          },
+          {
+            "champion": "Amumu",
+            "games": 104,
+            "wins": 47
+          }
+        ]
+      }
+    },
+    "Nasus": {
+      "mid": {
+        "games": 14571,
+        "counters": [
+          {
+            "champion": "Yasuo",
+            "games": 121,
+            "wins": 57
+          },
+          {
+            "champion": "Zed",
+            "games": 128,
+            "wins": 62
+          }
+        ]
+      },
+      "top": {
+        "games": 86006,
+        "counters": [
+          {
+            "champion": "Zaahen",
+            "games": 127,
+            "wins": 54
+          },
+          {
+            "champion": "Gwen",
+            "games": 136,
+            "wins": 60
+          },
+          {
+            "champion": "Camille",
+            "games": 202,
+            "wins": 91
+          }
+        ]
+      }
+    },
+    "Nautilus": {
+      "support": {
+        "games": 239079,
+        "counters": [
+          {
+            "champion": "Galio",
+            "games": 161,
+            "wins": 63
+          },
+          {
+            "champion": "Swain",
+            "games": 302,
+            "wins": 125
+          },
+          {
+            "champion": "Taric",
+            "games": 282,
+            "wins": 122
+          }
+        ]
+      }
+    },
+    "Neeko": {
+      "support": {
+        "games": 38307,
+        "counters": [
+          {
+            "champion": "Bard",
+            "games": 214,
+            "wins": 90
+          },
+          {
+            "champion": "Senna",
+            "games": 110,
+            "wins": 46
+          },
+          {
+            "champion": "Alistar",
+            "games": 257,
+            "wins": 113
+          }
+        ]
+      }
+    },
+    "Nidalee": {
+      "jungle": {
+        "games": 62624,
+        "counters": [
+          {
+            "champion": "RekSai",
+            "games": 157,
+            "wins": 66
+          },
+          {
+            "champion": "Diana",
+            "games": 221,
+            "wins": 94
+          },
+          {
+            "champion": "Chogath",
+            "games": 242,
+            "wins": 108
+          }
+        ]
+      }
+    },
+    "Nilah": {
+      "bot": {
+        "games": 25133,
+        "counters": [
+          {
+            "champion": "Jinx",
+            "games": 108,
+            "wins": 48
+          },
+          {
+            "champion": "Xayah",
+            "games": 102,
+            "wins": 49
+          }
+        ]
+      }
+    },
+    "Nocturne": {
+      "jungle": {
+        "games": 95146,
+        "counters": [
+          {
+            "champion": "Nidalee",
+            "games": 153,
+            "wins": 59
+          },
+          {
+            "champion": "MasterYi",
+            "games": 162,
+            "wins": 67
+          },
+          {
+            "champion": "Taliyah",
+            "games": 129,
+            "wins": 53
+          }
+        ]
+      }
+    },
+    "Nunu": {
+      "jungle": {
+        "games": 48515,
+        "counters": [
+          {
+            "champion": "Elise",
+            "games": 147,
+            "wins": 64
+          },
+          {
+            "champion": "Vi",
+            "games": 136,
+            "wins": 62
+          },
+          {
+            "champion": "Sylas",
+            "games": 280,
+            "wins": 136
+          }
+        ]
+      }
+    },
+    "Olaf": {
+      "top": {
+        "games": 65264,
+        "counters": [
+          {
+            "champion": "Malphite",
+            "games": 210,
+            "wins": 91
+          },
+          {
+            "champion": "Ornn",
+            "games": 205,
+            "wins": 91
+          },
+          {
+            "champion": "Gwen",
+            "games": 103,
+            "wins": 46
+          }
+        ]
+      }
+    },
+    "Orianna": {
+      "mid": {
+        "games": 99371,
+        "counters": [
+          {
+            "champion": "AurelionSol",
+            "games": 111,
+            "wins": 46
+          },
+          {
+            "champion": "Anivia",
+            "games": 195,
+            "wins": 84
+          },
+          {
+            "champion": "Qiyana",
+            "games": 206,
+            "wins": 90
+          }
+        ]
+      }
+    },
+    "Ornn": {
+      "top": {
+        "games": 90456,
+        "counters": [
+          {
+            "champion": "Riven",
+            "games": 139,
+            "wins": 56
+          },
+          {
+            "champion": "Tryndamere",
+            "games": 165,
+            "wins": 75
+          },
+          {
+            "champion": "Shen",
+            "games": 301,
+            "wins": 138
+          }
+        ]
+      }
+    },
+    "Pantheon": {
+      "jungle": {
+        "games": 22332,
+        "counters": [
+          {
+            "champion": "JarvanIV",
+            "games": 128,
+            "wins": 43
+          },
+          {
+            "champion": "Talon",
+            "games": 106,
+            "wins": 49
+          },
+          {
+            "champion": "LeeSin",
+            "games": 250,
+            "wins": 119
+          }
+        ]
+      },
+      "mid": {
+        "games": 22655,
+        "counters": [
+          {
+            "champion": "Syndra",
+            "games": 146,
+            "wins": 71
+          },
+          {
+            "champion": "Katarina",
+            "games": 114,
+            "wins": 56
+          }
+        ]
+      },
+      "support": {
+        "games": 77028,
+        "counters": [
+          {
+            "champion": "Janna",
+            "games": 249,
+            "wins": 95
+          },
+          {
+            "champion": "Milio",
+            "games": 210,
+            "wins": 91
+          },
+          {
+            "champion": "Alistar",
+            "games": 455,
+            "wins": 202
+          }
+        ]
+      },
+      "top": {
+        "games": 92667,
+        "counters": [
+          {
+            "champion": "Irelia",
+            "games": 322,
+            "wins": 146
+          },
+          {
+            "champion": "Darius",
+            "games": 442,
+            "wins": 204
+          },
+          {
+            "champion": "Sion",
+            "games": 325,
+            "wins": 151
+          }
+        ]
+      }
+    },
+    "Poppy": {
+      "support": {
+        "games": 38170,
+        "counters": [
+          {
+            "champion": "Rakan",
+            "games": 333,
+            "wins": 143
+          },
+          {
+            "champion": "Nami",
+            "games": 138,
+            "wins": 61
+          },
+          {
+            "champion": "Braum",
+            "games": 139,
+            "wins": 65
+          }
+        ]
+      },
+      "top": {
+        "games": 20919,
+        "counters": []
+      }
+    },
+    "Pyke": {
+      "support": {
+        "games": 132510,
+        "counters": [
+          {
+            "champion": "Rell",
+            "games": 631,
+            "wins": 280
+          },
+          {
+            "champion": "Swain",
+            "games": 126,
+            "wins": 56
+          },
+          {
+            "champion": "Soraka",
+            "games": 475,
+            "wins": 216
+          }
+        ]
+      }
+    },
+    "Qiyana": {
+      "jungle": {
+        "games": 160780,
+        "counters": [
+          {
+            "champion": "Karthus",
+            "games": 250,
+            "wins": 104
+          },
+          {
+            "champion": "Nidalee",
+            "games": 734,
+            "wins": 313
+          },
+          {
+            "champion": "Zyra",
+            "games": 302,
+            "wins": 129
+          }
+        ]
+      },
+      "mid": {
+        "games": 58049,
+        "counters": [
+          {
+            "champion": "Taliyah",
+            "games": 142,
+            "wins": 58
+          },
+          {
+            "champion": "Fizz",
+            "games": 150,
+            "wins": 65
+          },
+          {
+            "champion": "Irelia",
+            "games": 115,
+            "wins": 49
+          }
+        ]
+      }
+    },
+    "Quinn": {
+      "jungle": {
+        "games": 25018,
+        "counters": [
+          {
+            "champion": "JarvanIV",
+            "games": 142,
+            "wins": 63
+          },
+          {
+            "champion": "Viego",
+            "games": 107,
+            "wins": 52
+          }
+        ]
+      },
+      "top": {
+        "games": 19236,
+        "counters": []
+      }
+    },
+    "Rakan": {
+      "support": {
+        "games": 104657,
+        "counters": [
+          {
+            "champion": "Leona",
+            "games": 743,
+            "wins": 352
+          },
+          {
+            "champion": "Zilean",
+            "games": 317,
+            "wins": 152
+          },
+          {
+            "champion": "Sona",
+            "games": 306,
+            "wins": 148
+          }
+        ]
+      }
+    },
+    "Rammus": {
+      "jungle": {
+        "games": 38910,
+        "counters": [
+          {
+            "champion": "Chogath",
+            "games": 115,
+            "wins": 45
+          },
+          {
+            "champion": "JarvanIV",
+            "games": 116,
+            "wins": 47
+          },
+          {
+            "champion": "Lillia",
+            "games": 111,
+            "wins": 51
+          }
+        ]
+      }
+    },
+    "RekSai": {
+      "jungle": {
+        "games": 31522,
+        "counters": [
+          {
+            "champion": "Chogath",
+            "games": 171,
+            "wins": 68
+          },
+          {
+            "champion": "Zyra",
+            "games": 100,
+            "wins": 40
+          },
+          {
+            "champion": "Ekko",
+            "games": 147,
+            "wins": 67
+          }
+        ]
+      }
+    },
+    "Rell": {
+      "support": {
+        "games": 90463,
+        "counters": [
+          {
+            "champion": "Maokai",
+            "games": 171,
+            "wins": 71
+          },
+          {
+            "champion": "Sona",
+            "games": 270,
+            "wins": 130
+          },
+          {
+            "champion": "Zyra",
+            "games": 130,
+            "wins": 62
+          }
+        ]
+      }
+    },
+    "Renata": {
+      "support": {
+        "games": 54768,
+        "counters": [
+          {
+            "champion": "Poppy",
+            "games": 163,
+            "wins": 68
+          },
+          {
+            "champion": "Zilean",
+            "games": 169,
+            "wins": 73
+          },
+          {
+            "champion": "Leona",
+            "games": 331,
+            "wins": 148
+          }
+        ]
+      }
+    },
+    "Renekton": {
+      "top": {
+        "games": 133385,
+        "counters": [
+          {
+            "champion": "Illaoi",
+            "games": 209,
+            "wins": 82
+          },
+          {
+            "champion": "Quinn",
+            "games": 101,
+            "wins": 40
+          },
+          {
+            "champion": "Kennen",
+            "games": 194,
+            "wins": 81
+          }
+        ]
+      }
+    },
+    "Rengar": {
+      "jungle": {
+        "games": 91660,
+        "counters": [
+          {
+            "champion": "MasterYi",
+            "games": 306,
+            "wins": 124
+          },
+          {
+            "champion": "RekSai",
+            "games": 183,
+            "wins": 77
+          },
+          {
+            "champion": "Nunu",
+            "games": 210,
+            "wins": 90
+          }
+        ]
+      }
+    },
+    "Riven": {
+      "top": {
+        "games": 51841,
+        "counters": [
+          {
+            "champion": "Singed",
+            "games": 106,
+            "wins": 48
+          },
+          {
+            "champion": "Gangplank",
+            "games": 219,
+            "wins": 101
+          },
+          {
+            "champion": "Pantheon",
+            "games": 176,
+            "wins": 81
+          }
+        ]
+      }
+    },
+    "Rumble": {
+      "top": {
+        "games": 36230,
+        "counters": [
+          {
+            "champion": "Yasuo",
+            "games": 102,
+            "wins": 39
+          },
+          {
+            "champion": "Sion",
+            "games": 129,
+            "wins": 52
+          },
+          {
+            "champion": "Olaf",
+            "games": 138,
+            "wins": 56
+          }
+        ]
+      }
+    },
+    "Ryze": {
+      "mid": {
+        "games": 52252,
+        "counters": [
+          {
+            "champion": "Talon",
+            "games": 107,
+            "wins": 42
+          },
+          {
+            "champion": "Yasuo",
+            "games": 297,
+            "wins": 119
+          },
+          {
+            "champion": "Leblanc",
+            "games": 176,
+            "wins": 73
+          }
+        ]
+      },
+      "top": {
+        "games": 13449,
+        "counters": []
+      }
+    },
+    "Samira": {
+      "bot": {
+        "games": 83586,
+        "counters": [
+          {
+            "champion": "MissFortune",
+            "games": 208,
+            "wins": 94
+          },
+          {
+            "champion": "Ashe",
+            "games": 144,
+            "wins": 65
+          },
+          {
+            "champion": "Jinx",
+            "games": 388,
+            "wins": 179
+          }
+        ]
+      }
+    },
+    "Sejuani": {
+      "jungle": {
+        "games": 49622,
+        "counters": [
+          {
+            "champion": "Sylas",
+            "games": 163,
+            "wins": 74
+          },
+          {
+            "champion": "Hecarim",
+            "games": 155,
+            "wins": 72
+          },
+          {
+            "champion": "Chogath",
+            "games": 130,
+            "wins": 61
+          }
+        ]
+      }
+    },
+    "Senna": {
+      "support": {
+        "games": 128085,
+        "counters": [
+          {
+            "champion": "Zyra",
+            "games": 130,
+            "wins": 55
+          },
+          {
+            "champion": "Taric",
+            "games": 111,
+            "wins": 48
+          },
+          {
+            "champion": "Thresh",
+            "games": 1058,
+            "wins": 491
+          }
+        ]
+      }
+    },
+    "Seraphine": {
+      "bot": {
+        "games": 12544,
+        "counters": [
+          {
+            "champion": "Jinx",
+            "games": 130,
+            "wins": 51
+          },
+          {
+            "champion": "Kaisa",
+            "games": 242,
+            "wins": 117
+          },
+          {
+            "champion": "Ezreal",
+            "games": 186,
+            "wins": 92
+          }
+        ]
+      },
+      "support": {
+        "games": 148762,
+        "counters": [
+          {
+            "champion": "Rell",
+            "games": 425,
+            "wins": 181
+          },
+          {
+            "champion": "Milio",
+            "games": 709,
+            "wins": 317
+          },
+          {
+            "champion": "Pyke",
+            "games": 408,
+            "wins": 184
+          }
+        ]
+      }
+    },
+    "Sett": {
+      "top": {
+        "games": 144177,
+        "counters": [
+          {
+            "champion": "Renekton",
+            "games": 421,
+            "wins": 168
+          },
+          {
+            "champion": "Nasus",
+            "games": 132,
+            "wins": 54
+          },
+          {
+            "champion": "Ornn",
+            "games": 318,
+            "wins": 139
+          }
+        ]
+      }
+    },
+    "Shaco": {
+      "jungle": {
+        "games": 98602,
+        "counters": [
+          {
+            "champion": "Nunu",
+            "games": 172,
+            "wins": 70
+          },
+          {
+            "champion": "Karthus",
+            "games": 111,
+            "wins": 50
+          },
+          {
+            "champion": "Diana",
+            "games": 181,
+            "wins": 84
+          }
+        ]
+      },
+      "support": {
+        "games": 26996,
+        "counters": [
+          {
+            "champion": "Karma",
+            "games": 130,
+            "wins": 54
+          },
+          {
+            "champion": "Thresh",
+            "games": 214,
+            "wins": 97
+          },
+          {
+            "champion": "Lulu",
+            "games": 172,
+            "wins": 78
+          }
+        ]
+      }
+    },
+    "Shen": {
+      "support": {
+        "games": 17788,
+        "counters": [
+          {
+            "champion": "Lulu",
+            "games": 133,
+            "wins": 55
+          },
+          {
+            "champion": "Thresh",
+            "games": 136,
+            "wins": 61
+          },
+          {
+            "champion": "Nautilus",
+            "games": 129,
+            "wins": 61
+          }
+        ]
+      },
+      "top": {
+        "games": 85202,
+        "counters": [
+          {
+            "champion": "Tryndamere",
+            "games": 167,
+            "wins": 72
+          },
+          {
+            "champion": "Gnar",
+            "games": 288,
+            "wins": 128
+          },
+          {
+            "champion": "Riven",
+            "games": 129,
+            "wins": 57
+          }
+        ]
+      }
+    },
+    "Shyvana": {
+      "jungle": {
+        "games": 88039,
+        "counters": [
+          {
+            "champion": "XinZhao",
+            "games": 111,
+            "wins": 47
+          },
+          {
+            "champion": "Belveth",
+            "games": 113,
+            "wins": 49
+          },
+          {
+            "champion": "Khazix",
+            "games": 231,
+            "wins": 102
+          }
+        ]
+      }
+    },
+    "Singed": {
+      "top": {
+        "games": 49660,
+        "counters": [
+          {
+            "champion": "Gangplank",
+            "games": 236,
+            "wins": 99
+          },
+          {
+            "champion": "Chogath",
+            "games": 113,
+            "wins": 49
+          },
+          {
+            "champion": "Jayce",
+            "games": 188,
+            "wins": 86
+          }
+        ]
+      }
+    },
+    "Sion": {
+      "mid": {
+        "games": 13968,
+        "counters": []
+      },
+      "top": {
+        "games": 86137,
+        "counters": [
+          {
+            "champion": "Gwen",
+            "games": 323,
+            "wins": 126
+          },
+          {
+            "champion": "Singed",
+            "games": 121,
+            "wins": 50
+          },
+          {
+            "champion": "DrMundo",
+            "games": 235,
+            "wins": 101
+          }
+        ]
+      }
+    },
+    "Sivir": {
+      "bot": {
+        "games": 104960,
+        "counters": [
+          {
+            "champion": "Yunara",
+            "games": 657,
+            "wins": 269
+          },
+          {
+            "champion": "Vayne",
+            "games": 159,
+            "wins": 66
+          },
+          {
+            "champion": "Viktor",
+            "games": 140,
+            "wins": 63
+          }
+        ]
+      }
+    },
+    "Skarner": {
+      "jungle": {
+        "games": 22401,
+        "counters": [
+          {
+            "champion": "Talon",
+            "games": 168,
+            "wins": 81
+          },
+          {
+            "champion": "Hecarim",
+            "games": 124,
+            "wins": 60
+          },
+          {
+            "champion": "Lillia",
+            "games": 142,
+            "wins": 70
+          }
+        ]
+      }
+    },
+    "Smolder": {
+      "bot": {
+        "games": 92910,
+        "counters": [
+          {
+            "champion": "Sivir",
+            "games": 119,
+            "wins": 49
+          },
+          {
+            "champion": "Zeri",
+            "games": 202,
+            "wins": 85
+          },
+          {
+            "champion": "Kalista",
+            "games": 195,
+            "wins": 82
+          }
+        ]
+      },
+      "mid": {
+        "games": 11597,
+        "counters": []
+      }
+    },
+    "Sona": {
+      "support": {
+        "games": 60222,
+        "counters": [
+          {
+            "champion": "Blitzcrank",
+            "games": 394,
+            "wins": 186
+          },
+          {
+            "champion": "Senna",
+            "games": 350,
+            "wins": 164
+          },
+          {
+            "champion": "Alistar",
+            "games": 346,
+            "wins": 164
+          }
+        ]
+      }
+    },
+    "Soraka": {
+      "support": {
+        "games": 107462,
+        "counters": [
+          {
+            "champion": "Senna",
+            "games": 431,
+            "wins": 196
+          },
+          {
+            "champion": "Sona",
+            "games": 381,
+            "wins": 176
+          },
+          {
+            "champion": "Thresh",
+            "games": 1054,
+            "wins": 500
+          }
+        ]
+      }
+    },
+    "Swain": {
+      "bot": {
+        "games": 22563,
+        "counters": [
+          {
+            "champion": "Lucian",
+            "games": 151,
+            "wins": 69
+          },
+          {
+            "champion": "Kalista",
+            "games": 151,
+            "wins": 74
+          }
+        ]
+      },
+      "mid": {
+        "games": 18529,
+        "counters": [
+          {
+            "champion": "Ahri",
+            "games": 114,
+            "wins": 53
+          }
+        ]
+      },
+      "support": {
+        "games": 62814,
+        "counters": [
+          {
+            "champion": "Braum",
+            "games": 138,
+            "wins": 56
+          },
+          {
+            "champion": "Blitzcrank",
+            "games": 158,
+            "wins": 68
+          },
+          {
+            "champion": "Rell",
+            "games": 135,
+            "wins": 61
+          }
+        ]
+      },
+      "top": {
+        "games": 12279,
+        "counters": []
+      }
+    },
+    "Sylas": {
+      "jungle": {
+        "games": 145627,
+        "counters": [
+          {
+            "champion": "Elise",
+            "games": 326,
+            "wins": 126
+          },
+          {
+            "champion": "Zac",
+            "games": 237,
+            "wins": 99
+          },
+          {
+            "champion": "Taliyah",
+            "games": 329,
+            "wins": 141
+          }
+        ]
+      },
+      "mid": {
+        "games": 155549,
+        "counters": [
+          {
+            "champion": "Taliyah",
+            "games": 429,
+            "wins": 178
+          },
+          {
+            "champion": "Pantheon",
+            "games": 133,
+            "wins": 54
+          },
+          {
+            "champion": "Vex",
+            "games": 295,
+            "wins": 126
+          }
+        ]
+      },
+      "support": {
+        "games": 27896,
+        "counters": [
+          {
+            "champion": "Rell",
+            "games": 107,
+            "wins": 37
+          },
+          {
+            "champion": "Nami",
+            "games": 122,
+            "wins": 50
+          },
+          {
+            "champion": "Braum",
+            "games": 107,
+            "wins": 44
+          }
+        ]
+      },
+      "top": {
+        "games": 26748,
+        "counters": [
+          {
+            "champion": "Yone",
+            "games": 128,
+            "wins": 60
+          }
+        ]
+      }
+    },
+    "Syndra": {
+      "bot": {
+        "games": 20734,
+        "counters": [
+          {
+            "champion": "Kaisa",
+            "games": 414,
+            "wins": 200
+          },
+          {
+            "champion": "Lucian",
+            "games": 164,
+            "wins": 81
+          }
+        ]
+      },
+      "mid": {
+        "games": 199287,
+        "counters": [
+          {
+            "champion": "Riven",
+            "games": 110,
+            "wins": 42
+          },
+          {
+            "champion": "Katarina",
+            "games": 809,
+            "wins": 355
+          },
+          {
+            "champion": "AurelionSol",
+            "games": 259,
+            "wins": 113
+          }
+        ]
+      }
+    },
+    "TahmKench": {
+      "support": {
+        "games": 51225,
+        "counters": [
+          {
+            "champion": "Rakan",
+            "games": 130,
+            "wins": 50
+          },
+          {
+            "champion": "Rell",
+            "games": 163,
+            "wins": 68
+          },
+          {
+            "champion": "Nami",
+            "games": 155,
+            "wins": 66
+          }
+        ]
+      },
+      "top": {
+        "games": 40328,
+        "counters": [
+          {
+            "champion": "Darius",
+            "games": 106,
+            "wins": 48
+          },
+          {
+            "champion": "Jayce",
+            "games": 112,
+            "wins": 54
+          },
+          {
+            "champion": "Camille",
+            "games": 103,
+            "wins": 50
+          }
+        ]
+      }
+    },
+    "Taliyah": {
+      "jungle": {
+        "games": 45570,
+        "counters": [
+          {
+            "champion": "RekSai",
+            "games": 150,
+            "wins": 59
+          },
+          {
+            "champion": "MasterYi",
+            "games": 198,
+            "wins": 90
+          },
+          {
+            "champion": "Talon",
+            "games": 365,
+            "wins": 168
+          }
+        ]
+      },
+      "mid": {
+        "games": 46887,
+        "counters": [
+          {
+            "champion": "Anivia",
+            "games": 120,
+            "wins": 53
+          },
+          {
+            "champion": "Katarina",
+            "games": 238,
+            "wins": 108
+          },
+          {
+            "champion": "Hwei",
+            "games": 173,
+            "wins": 78
+          }
+        ]
+      }
+    },
+    "Talon": {
+      "jungle": {
+        "games": 122966,
+        "counters": [
+          {
+            "champion": "Gwen",
+            "games": 100,
+            "wins": 36
+          },
+          {
+            "champion": "Warwick",
+            "games": 134,
+            "wins": 58
+          },
+          {
+            "champion": "Fiddlesticks",
+            "games": 209,
+            "wins": 95
+          }
+        ]
+      },
+      "mid": {
+        "games": 38489,
+        "counters": [
+          {
+            "champion": "Yone",
+            "games": 232,
+            "wins": 99
+          },
+          {
+            "champion": "Katarina",
+            "games": 199,
+            "wins": 92
+          },
+          {
+            "champion": "Qiyana",
+            "games": 104,
+            "wins": 48
+          }
+        ]
+      }
+    },
+    "Taric": {
+      "support": {
+        "games": 28079,
+        "counters": [
+          {
+            "champion": "Janna",
+            "games": 138,
+            "wins": 56
+          },
+          {
+            "champion": "Bard",
+            "games": 129,
+            "wins": 55
+          },
+          {
+            "champion": "Thresh",
+            "games": 340,
+            "wins": 163
+          }
+        ]
+      }
+    },
+    "Teemo": {
+      "jungle": {
+        "games": 13286,
+        "counters": []
+      },
+      "top": {
+        "games": 89960,
+        "counters": [
+          {
+            "champion": "Akali",
+            "games": 135,
+            "wins": 60
+          },
+          {
+            "champion": "Olaf",
+            "games": 134,
+            "wins": 60
+          },
+          {
+            "champion": "Kennen",
+            "games": 103,
+            "wins": 46
+          }
+        ]
+      }
+    },
+    "Thresh": {
+      "support": {
+        "games": 338418,
+        "counters": [
+          {
+            "champion": "Rell",
+            "games": 1324,
+            "wins": 614
+          },
+          {
+            "champion": "Brand",
+            "games": 263,
+            "wins": 123
+          },
+          {
+            "champion": "Braum",
+            "games": 1858,
+            "wins": 896
+          }
+        ]
+      }
+    },
+    "Tristana": {
+      "bot": {
+        "games": 177593,
+        "counters": [
+          {
+            "champion": "Swain",
+            "games": 113,
+            "wins": 46
+          },
+          {
+            "champion": "Hwei",
+            "games": 136,
+            "wins": 58
+          },
+          {
+            "champion": "Sivir",
+            "games": 506,
+            "wins": 223
+          }
+        ]
+      },
+      "mid": {
+        "games": 15833,
+        "counters": [
+          {
+            "champion": "Ahri",
+            "games": 127,
+            "wins": 52
+          },
+          {
+            "champion": "Yone",
+            "games": 109,
+            "wins": 48
+          },
+          {
+            "champion": "Syndra",
+            "games": 153,
+            "wins": 73
+          }
+        ]
+      }
+    },
+    "Trundle": {
+      "jungle": {
+        "games": 17430,
+        "counters": []
+      },
+      "top": {
+        "games": 38517,
+        "counters": [
+          {
+            "champion": "Ornn",
+            "games": 101,
+            "wins": 42
+          },
+          {
+            "champion": "Yone",
+            "games": 118,
+            "wins": 51
+          }
+        ]
+      }
+    },
+    "Tryndamere": {
+      "top": {
+        "games": 68634,
+        "counters": [
+          {
+            "champion": "Urgot",
+            "games": 117,
+            "wins": 45
+          },
+          {
+            "champion": "Malphite",
+            "games": 361,
+            "wins": 160
+          },
+          {
+            "champion": "Nasus",
+            "games": 151,
+            "wins": 67
+          }
+        ]
+      }
+    },
+    "TwistedFate": {
+      "mid": {
+        "games": 114852,
+        "counters": [
+          {
+            "champion": "Katarina",
+            "games": 510,
+            "wins": 228
+          },
+          {
+            "champion": "Zed",
+            "games": 612,
+            "wins": 286
+          },
+          {
+            "champion": "Hwei",
+            "games": 374,
+            "wins": 175
+          }
+        ]
+      }
+    },
+    "Twitch": {
+      "bot": {
+        "games": 126905,
+        "counters": [
+          {
+            "champion": "Viktor",
+            "games": 138,
+            "wins": 60
+          },
+          {
+            "champion": "Yasuo",
+            "games": 117,
+            "wins": 50
+          },
+          {
+            "champion": "Nilah",
+            "games": 103,
+            "wins": 44
+          }
+        ]
+      }
+    },
+    "Udyr": {
+      "jungle": {
+        "games": 41853,
+        "counters": [
+          {
+            "champion": "MasterYi",
+            "games": 101,
+            "wins": 38
+          },
+          {
+            "champion": "Talon",
+            "games": 147,
+            "wins": 65
+          },
+          {
+            "champion": "LeeSin",
+            "games": 267,
+            "wins": 123
+          }
+        ]
+      },
+      "top": {
+        "games": 12813,
+        "counters": []
+      }
+    },
+    "Urgot": {
+      "top": {
+        "games": 54130,
+        "counters": [
+          {
+            "champion": "Olaf",
+            "games": 240,
+            "wins": 104
+          },
+          {
+            "champion": "Malphite",
+            "games": 172,
+            "wins": 79
+          },
+          {
+            "champion": "Sion",
+            "games": 169,
+            "wins": 78
+          }
+        ]
+      }
+    },
+    "Varus": {
+      "bot": {
+        "games": 95229,
+        "counters": [
+          {
+            "champion": "Syndra",
+            "games": 106,
+            "wins": 39
+          },
+          {
+            "champion": "Velkoz",
+            "games": 111,
+            "wins": 44
+          },
+          {
+            "champion": "KogMaw",
+            "games": 216,
+            "wins": 95
+          }
+        ]
+      },
+      "top": {
+        "games": 15492,
+        "counters": []
+      }
+    },
+    "Vayne": {
+      "bot": {
+        "games": 81996,
+        "counters": [
+          {
+            "champion": "MissFortune",
+            "games": 185,
+            "wins": 80
+          },
+          {
+            "champion": "Varus",
+            "games": 116,
+            "wins": 50
+          },
+          {
+            "champion": "Aphelios",
+            "games": 222,
+            "wins": 99
+          }
+        ]
+      },
+      "top": {
+        "games": 28054,
+        "counters": [
+          {
+            "champion": "Malphite",
+            "games": 117,
+            "wins": 43
+          },
+          {
+            "champion": "Fiora",
+            "games": 102,
+            "wins": 44
+          },
+          {
+            "champion": "Ornn",
+            "games": 118,
+            "wins": 52
+          }
+        ]
+      }
+    },
+    "Veigar": {
+      "bot": {
+        "games": 24703,
+        "counters": [
+          {
+            "champion": "Kaisa",
+            "games": 223,
+            "wins": 107
+          }
+        ]
+      },
+      "mid": {
+        "games": 72678,
+        "counters": [
+          {
+            "champion": "Hwei",
+            "games": 133,
+            "wins": 57
+          },
+          {
+            "champion": "Locke",
+            "games": 230,
+            "wins": 102
+          },
+          {
+            "champion": "Zed",
+            "games": 196,
+            "wins": 88
+          }
+        ]
+      }
+    },
+    "Velkoz": {
+      "bot": {
+        "games": 17784,
+        "counters": [
+          {
+            "champion": "Sivir",
+            "games": 107,
+            "wins": 49
+          }
+        ]
+      },
+      "mid": {
+        "games": 26059,
+        "counters": [
+          {
+            "champion": "Locke",
+            "games": 148,
+            "wins": 62
+          },
+          {
+            "champion": "Yasuo",
+            "games": 111,
+            "wins": 50
+          },
+          {
+            "champion": "Yone",
+            "games": 125,
+            "wins": 60
+          }
+        ]
+      },
+      "support": {
+        "games": 74191,
+        "counters": [
+          {
+            "champion": "Rakan",
+            "games": 189,
+            "wins": 84
+          },
+          {
+            "champion": "Bard",
+            "games": 197,
+            "wins": 90
+          },
+          {
+            "champion": "Zilean",
+            "games": 123,
+            "wins": 57
+          }
+        ]
+      }
+    },
+    "Vex": {
+      "mid": {
+        "games": 70214,
+        "counters": [
+          {
+            "champion": "Lux",
+            "games": 114,
+            "wins": 44
+          },
+          {
+            "champion": "Fizz",
+            "games": 123,
+            "wins": 57
+          },
+          {
+            "champion": "Syndra",
+            "games": 362,
+            "wins": 178
+          }
+        ]
+      }
+    },
+    "Vi": {
+      "jungle": {
+        "games": 106462,
+        "counters": [
+          {
+            "champion": "Shaco",
+            "games": 162,
+            "wins": 64
+          },
+          {
+            "champion": "Briar",
+            "games": 133,
+            "wins": 54
+          },
+          {
+            "champion": "MonkeyKing",
+            "games": 386,
+            "wins": 167
+          }
+        ]
+      }
+    },
+    "Viego": {
+      "jungle": {
+        "games": 189189,
+        "counters": [
+          {
+            "champion": "Evelynn",
+            "games": 270,
+            "wins": 112
+          },
+          {
+            "champion": "Nidalee",
+            "games": 474,
+            "wins": 202
+          },
+          {
+            "champion": "Naafiri",
+            "games": 286,
+            "wins": 123
+          }
+        ]
+      }
+    },
+    "Viktor": {
+      "bot": {
+        "games": 40312,
+        "counters": [
+          {
+            "champion": "Jhin",
+            "games": 758,
+            "wins": 362
+          },
+          {
+            "champion": "Kaisa",
+            "games": 682,
+            "wins": 327
+          }
+        ]
+      },
+      "mid": {
+        "games": 153445,
+        "counters": [
+          {
+            "champion": "Zoe",
+            "games": 298,
+            "wins": 113
+          },
+          {
+            "champion": "Kassadin",
+            "games": 311,
+            "wins": 126
+          },
+          {
+            "champion": "Diana",
+            "games": 270,
+            "wins": 110
+          }
+        ]
+      }
+    },
+    "Vladimir": {
+      "mid": {
+        "games": 95463,
+        "counters": [
+          {
+            "champion": "Anivia",
+            "games": 181,
+            "wins": 66
+          },
+          {
+            "champion": "Taliyah",
+            "games": 147,
+            "wins": 63
+          },
+          {
+            "champion": "Cassiopeia",
+            "games": 114,
+            "wins": 49
+          }
+        ]
+      },
+      "top": {
+        "games": 29981,
+        "counters": [
+          {
+            "champion": "Irelia",
+            "games": 126,
+            "wins": 56
+          },
+          {
+            "champion": "Shen",
+            "games": 102,
+            "wins": 45
+          },
+          {
+            "champion": "Jax",
+            "games": 202,
+            "wins": 90
+          }
+        ]
+      }
+    },
+    "Volibear": {
+      "jungle": {
+        "games": 23012,
+        "counters": []
+      },
+      "top": {
+        "games": 88820,
+        "counters": [
+          {
+            "champion": "Jax",
+            "games": 281,
+            "wins": 116
+          },
+          {
+            "champion": "Gnar",
+            "games": 179,
+            "wins": 74
+          },
+          {
+            "champion": "Yasuo",
+            "games": 133,
+            "wins": 54
+          }
+        ]
+      }
+    },
+    "Warwick": {
+      "jungle": {
+        "games": 65778,
+        "counters": [
+          {
+            "champion": "JarvanIV",
+            "games": 161,
+            "wins": 66
+          },
+          {
+            "champion": "Hecarim",
+            "games": 127,
+            "wins": 52
+          },
+          {
+            "champion": "Rengar",
+            "games": 102,
+            "wins": 46
+          }
+        ]
+      },
+      "top": {
+        "games": 32219,
+        "counters": [
+          {
+            "champion": "Jax",
+            "games": 157,
+            "wins": 68
+          },
+          {
+            "champion": "Darius",
+            "games": 140,
+            "wins": 62
+          },
+          {
+            "champion": "KSante",
+            "games": 136,
+            "wins": 64
+          }
+        ]
+      }
+    },
+    "Xayah": {
+      "bot": {
+        "games": 180674,
+        "counters": [
+          {
+            "champion": "Swain",
+            "games": 137,
+            "wins": 57
+          },
+          {
+            "champion": "Viktor",
+            "games": 208,
+            "wins": 89
+          },
+          {
+            "champion": "Hwei",
+            "games": 106,
+            "wins": 47
+          }
+        ]
+      }
+    },
+    "Xerath": {
+      "bot": {
+        "games": 16271,
+        "counters": [
+          {
+            "champion": "Kalista",
+            "games": 103,
+            "wins": 43
+          },
+          {
+            "champion": "Aphelios",
+            "games": 142,
+            "wins": 64
+          },
+          {
+            "champion": "Kaisa",
+            "games": 329,
+            "wins": 150
+          }
+        ]
+      },
+      "mid": {
+        "games": 95708,
+        "counters": [
+          {
+            "champion": "Locke",
+            "games": 391,
+            "wins": 154
+          },
+          {
+            "champion": "Aurora",
+            "games": 163,
+            "wins": 71
+          },
+          {
+            "champion": "Akali",
+            "games": 277,
+            "wins": 124
+          }
+        ]
+      },
+      "support": {
+        "games": 64393,
+        "counters": [
+          {
+            "champion": "Alistar",
+            "games": 133,
+            "wins": 51
+          },
+          {
+            "champion": "Yuumi",
+            "games": 124,
+            "wins": 48
+          },
+          {
+            "champion": "Pyke",
+            "games": 122,
+            "wins": 50
+          }
+        ]
+      }
+    },
+    "XinZhao": {
+      "jungle": {
+        "games": 79191,
+        "counters": [
+          {
+            "champion": "Briar",
+            "games": 115,
+            "wins": 49
+          },
+          {
+            "champion": "Ekko",
+            "games": 242,
+            "wins": 107
+          },
+          {
+            "champion": "Taliyah",
+            "games": 188,
+            "wins": 82
+          }
+        ]
+      }
+    },
+    "Yasuo": {
+      "bot": {
+        "games": 54634,
+        "counters": [
+          {
+            "champion": "Kalista",
+            "games": 272,
+            "wins": 125
+          },
+          {
+            "champion": "Corki",
+            "games": 139,
+            "wins": 64
+          },
+          {
+            "champion": "Vayne",
+            "games": 116,
+            "wins": 55
+          }
+        ]
+      },
+      "mid": {
+        "games": 209410,
+        "counters": [
+          {
+            "champion": "AurelionSol",
+            "games": 210,
+            "wins": 86
+          },
+          {
+            "champion": "Talon",
+            "games": 219,
+            "wins": 97
+          },
+          {
+            "champion": "Vex",
+            "games": 492,
+            "wins": 221
+          }
+        ]
+      },
+      "top": {
+        "games": 82727,
+        "counters": [
+          {
+            "champion": "Fiora",
+            "games": 246,
+            "wins": 98
+          },
+          {
+            "champion": "Singed",
+            "games": 101,
+            "wins": 42
+          },
+          {
+            "champion": "Gangplank",
+            "games": 215,
+            "wins": 95
+          }
+        ]
+      }
+    },
+    "Yone": {
+      "mid": {
+        "games": 183485,
+        "counters": [
+          {
+            "champion": "Vex",
+            "games": 266,
+            "wins": 107
+          },
+          {
+            "champion": "Anivia",
+            "games": 305,
+            "wins": 127
+          },
+          {
+            "champion": "TwistedFate",
+            "games": 720,
+            "wins": 319
+          }
+        ]
+      },
+      "top": {
+        "games": 185525,
+        "counters": [
+          {
+            "champion": "Aurora",
+            "games": 108,
+            "wins": 44
+          },
+          {
+            "champion": "Irelia",
+            "games": 662,
+            "wins": 288
+          },
+          {
+            "champion": "Akali",
+            "games": 542,
+            "wins": 241
+          }
+        ]
+      }
+    },
+    "Yorick": {
+      "top": {
+        "games": 62427,
+        "counters": [
+          {
+            "champion": "Sion",
+            "games": 112,
+            "wins": 37
+          },
+          {
+            "champion": "Gnar",
+            "games": 101,
+            "wins": 40
+          },
+          {
+            "champion": "Nasus",
+            "games": 102,
+            "wins": 45
+          }
+        ]
+      }
+    },
+    "Yunara": {
+      "bot": {
+        "games": 209295,
+        "counters": [
+          {
+            "champion": "Karthus",
+            "games": 183,
+            "wins": 74
+          },
+          {
+            "champion": "Veigar",
+            "games": 112,
+            "wins": 46
+          },
+          {
+            "champion": "Velkoz",
+            "games": 166,
+            "wins": 69
+          }
+        ]
+      }
+    },
+    "Yuumi": {
+      "support": {
+        "games": 124449,
+        "counters": [
+          {
+            "champion": "Rell",
+            "games": 425,
+            "wins": 167
+          },
+          {
+            "champion": "Alistar",
+            "games": 633,
+            "wins": 255
+          },
+          {
+            "champion": "Leona",
+            "games": 555,
+            "wins": 225
+          }
+        ]
+      }
+    },
+    "Zaahen": {
+      "top": {
+        "games": 63676,
+        "counters": [
+          {
+            "champion": "Sett",
+            "games": 211,
+            "wins": 86
+          },
+          {
+            "champion": "Chogath",
+            "games": 133,
+            "wins": 56
+          },
+          {
+            "champion": "Gragas",
+            "games": 125,
+            "wins": 52
+          }
+        ]
+      }
+    },
+    "Zac": {
+      "jungle": {
+        "games": 60067,
+        "counters": [
+          {
+            "champion": "Taliyah",
+            "games": 132,
+            "wins": 57
+          },
+          {
+            "champion": "Nunu",
+            "games": 106,
+            "wins": 47
+          },
+          {
+            "champion": "Ekko",
+            "games": 168,
+            "wins": 78
+          }
+        ]
+      },
+      "top": {
+        "games": 11595,
+        "counters": []
+      }
+    },
+    "Zed": {
+      "jungle": {
+        "games": 60050,
+        "counters": [
+          {
+            "champion": "MasterYi",
+            "games": 136,
+            "wins": 50
+          },
+          {
+            "champion": "Shaco",
+            "games": 101,
+            "wins": 38
+          },
+          {
+            "champion": "Lillia",
+            "games": 122,
+            "wins": 47
+          }
+        ]
+      },
+      "mid": {
+        "games": 188022,
+        "counters": [
+          {
+            "champion": "Chogath",
+            "games": 110,
+            "wins": 47
+          },
+          {
+            "champion": "Aurora",
+            "games": 335,
+            "wins": 146
+          },
+          {
+            "champion": "Fizz",
+            "games": 508,
+            "wins": 227
+          }
+        ]
+      }
+    },
+    "Zeri": {
+      "bot": {
+        "games": 106732,
+        "counters": [
+          {
+            "champion": "Karthus",
+            "games": 154,
+            "wins": 57
+          },
+          {
+            "champion": "Lux",
+            "games": 113,
+            "wins": 51
+          },
+          {
+            "champion": "Draven",
+            "games": 429,
+            "wins": 199
+          }
+        ]
+      }
+    },
+    "Ziggs": {
+      "bot": {
+        "games": 37506,
+        "counters": [
+          {
+            "champion": "Sivir",
+            "games": 135,
+            "wins": 59
+          },
+          {
+            "champion": "Zeri",
+            "games": 124,
+            "wins": 61
+          }
+        ]
+      },
+      "mid": {
+        "games": 14292,
+        "counters": []
+      }
+    },
+    "Zilean": {
+      "support": {
+        "games": 65614,
+        "counters": [
+          {
+            "champion": "Rell",
+            "games": 240,
+            "wins": 104
+          },
+          {
+            "champion": "Thresh",
+            "games": 662,
+            "wins": 308
+          },
+          {
+            "champion": "Pyke",
+            "games": 253,
+            "wins": 121
+          }
+        ]
+      }
+    },
+    "Zoe": {
+      "mid": {
+        "games": 64933,
+        "counters": [
+          {
+            "champion": "Katarina",
+            "games": 331,
+            "wins": 136
+          },
+          {
+            "champion": "Malzahar",
+            "games": 194,
+            "wins": 85
+          },
+          {
+            "champion": "Hwei",
+            "games": 166,
+            "wins": 75
+          }
+        ]
+      },
+      "support": {
+        "games": 19579,
+        "counters": [
+          {
+            "champion": "Lulu",
+            "games": 223,
+            "wins": 99
+          },
+          {
+            "champion": "Thresh",
+            "games": 222,
+            "wins": 102
+          },
+          {
+            "champion": "Janna",
+            "games": 118,
+            "wins": 54
+          }
+        ]
+      }
+    },
+    "Zyra": {
+      "jungle": {
+        "games": 47513,
+        "counters": [
+          {
+            "champion": "Shaco",
+            "games": 131,
+            "wins": 55
+          },
+          {
+            "champion": "Hecarim",
+            "games": 263,
+            "wins": 116
+          },
+          {
+            "champion": "Kindred",
+            "games": 117,
+            "wins": 52
+          }
+        ]
+      },
+      "support": {
+        "games": 60572,
+        "counters": [
+          {
+            "champion": "Leona",
+            "games": 181,
+            "wins": 77
+          },
+          {
+            "champion": "Alistar",
+            "games": 171,
+            "wins": 78
+          },
+          {
+            "champion": "Blitzcrank",
+            "games": 139,
+            "wins": 64
+          }
+        ]
+      }
+    }
+  }
+}

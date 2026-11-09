@@ -1,0 +1,39 @@
+{
+  "name": "Dark",
+  "base": "dark",
+  "fit": "cover",
+  "dim": 35,
+  "panel_opacity": 100,
+  "blur": 0,
+  "colors": {
+    "bg": "#12141b",
+    "panel": "#1b1e28",
+    "panel2": "#232735",
+    "border": "#2f3445",
+    "text": "#e6e8ef",
+    "muted": "#8a90a3",
+    "accent": "#e0b44c"
+  },
+  "group_colors": [
+    "#f59e0b",
+    "#10b981",
+    "#a16207",
+    "#ec4899",
+    "#06b6d4",
+    "#84cc16",
+    "#f97316",
+    "#64748b",
+    "#14b8a6",
+    "#4ade80",
+    "#78716c",
+    "#eab308"
+  ],
+  "graph": {
+    "edge": "#2f3445",
+    "edge_active": "#e0b44c",
+    "turn_line": "#2f3445",
+    "turn_width": 1.0,
+    "phase_line": "#4a5170",
+    "phase_width": 3.0
+  }
+}

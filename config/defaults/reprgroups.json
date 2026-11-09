@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "value": 190,
+      "name": "Enchanters",
+      "champions": [110, 49, 123, 28, 159, 178],
+      "note": "Peel supports we treat as interchangeable"
+    },
+    {
+      "value": 191,
+      "name": "Engage sup",
+      "champions": [16, 94, 108, 150, 125],
+      "note": "Hard engage supports"
+    },
+    {
+      "value": 192,
+      "name": "Hypercarry",
+      "champions": [131, 69, 91, 162, 173],
+      "note": "Late-game ADCs that need protection"
+    }
+  ]
+}
